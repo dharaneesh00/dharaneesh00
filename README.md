@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dharaneesh00
+Hello, I’m @dharaneesh
 - 👀 I’m interested in SOFTWARE DESIGN
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on WEBDESIGN
