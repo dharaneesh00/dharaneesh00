@@ -1,7 +1,6 @@
 Hello, I’m @dharaneesh
 - 👀 I’m interested in SOFTWARE DESIGN
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on WEBDESIGN
 - 📫 How to reach me 
 -❤️‍🔥rmdharaneesh@gmail.com
 -🐯graphic degsiner
